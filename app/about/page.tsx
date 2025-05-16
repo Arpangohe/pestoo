@@ -10,8 +10,8 @@ export default function AboutPage() {
     <>
       
       <PageHero 
-        title="About Us" 
-        description="Aspiring to provide the best solutions through technology." 
+        title="about_title" 
+        description="asp" 
         backgroundImage="https://i.ibb.co/sJkB90BZ/about-1-11zon.jpg"
       />
       <OurStory />
