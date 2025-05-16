@@ -8,7 +8,7 @@ import CallToAction from "@/components/call-to-action"
 export default function AboutPage() {
   return (
     <>
-      <PageHero title="about_title" description="asp" backgroundImage="https://i.ibb.co/sJkB90BZ/about-1-11zon.jpg" />
+      <PageHero title="about_title" description="asp" src="https://i.ibb.co/sJkB90BZ/about-1-11zon.jpg" />
       <OurStory />
       <WhyChooseUs />
       <SectorsDetailed />
