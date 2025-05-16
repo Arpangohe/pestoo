@@ -8,7 +8,7 @@ export default function ServicesPage() {
       <PageHero
         title="our_services"
         description="our_servicespro"
-        backgroundImage="/assets/termite-service_15_11zon.jpg"
+        backgroundImage="https://i.ibb.co/5g5zcdJQ/Main-header-7-11zon.jpg"
       />
       <ServiceCategories />
       <CallToAction title="cta_sectionh" description="cta_sectionp" buttonText="Quote" buttonLink="/contact" />
