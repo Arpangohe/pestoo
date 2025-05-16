@@ -3,6 +3,8 @@
 import Link from "next/link"
 import { useLanguage } from "@/context/language-context"
 import { translations } from "@/lib/translations"
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 export default function ServicesOverview() {
   const { language } = useLanguage()
